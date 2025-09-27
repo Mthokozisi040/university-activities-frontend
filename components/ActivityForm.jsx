@@ -1,4 +1,3 @@
-// components/ActivityForm.jsx
 'use client';
 
 import { useState } from 'react';
